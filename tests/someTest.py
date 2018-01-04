@@ -1,1 +1,1 @@
-# a comment
+print("foo")
